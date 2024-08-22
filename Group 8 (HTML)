@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Profiles</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to the external CSS file -->
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Meet Our Team</h1>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="profile">
+            <img src="image/rennalien.jfif" alt="Profile Picture">
+            <h2>Rennalien Oliva</h2>
+            <p>Position: Team Leader</p>
+            <p><i>IE account: olivarennalien_bsit@plmun.edu.ph</i></p>
+        </div>
+        <div class="profile">
+            <img src="image/Ellyza.jfif" alt="Profile Picture">
+            <h2>Ellyza Galindo</h2>
+            <p>Position: Developer</p>
+            <p><i>IE account: galindoellyza_bsit@plmun.edu.ph</i></p>
+        </div>
+        <div class="profile">
+            <img src="image/Jeric.jfif" alt="Profile Picture">
+            <h2>Jeric Mendoza</h2>
+            <p>Position: Developer</p>
+            <p><i>IE account: mendozajeric_bsit@plmun.edu.ph</i></p>
+        </div>
+        <div class="profile">
+            <img src="image/sarahmel.jpg" alt="Profile Picture">
+            <h2>Sarahmel Ocado</h2>
+            <p>Position: Designer</p>
+            <p><i>IE account: ocadosarahmel_bsit@plmun.edu.ph</i></p>
+        </div>
+        <div class="profile">
+            <img src="image/McEphraem.jfif" alt="Profile Picture">
+            <h2>McEphraem San Jose</h2>
+            <p>Position: Designer</p>
+            <p><i>IE account: sanjosemcephraem_bsit@plmun.edu.ph</i></p>
+        </div>
+    </div>
+</body>
+</html>
